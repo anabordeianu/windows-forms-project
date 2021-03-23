@@ -1,0 +1,4 @@
+1000,Perne&Paturi SRL,0215678900,Soseaua Virtutii 55
+1001,Popescu Production SRL,0312451673,Calea Floreasca 290
+1002,Margele&Pene SA,0218905674,Bulevardul Sperantei 112
+1003,Textile Distribution SRL,0314532678,Drumul Sarii 33
